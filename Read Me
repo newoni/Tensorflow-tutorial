@@ -3,6 +3,11 @@ Tutorial URL: https://www.edwith.org/boostcourse-dl-tensorflow/joinLectures/2507
 list
 
 1. Simple Linear Regression
+  - Lab 02 
   - compare tensorflow and sklearn in Linear regression
   
+2. Lienar Regression and How to minimize cost
+  - lab 03
+  - 오류 수정
+  - np.array 형이 한 번에 처리되는 걸 확인
   
