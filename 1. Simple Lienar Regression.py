@@ -1,3 +1,4 @@
+# <20.3.12> by KH
 '''
 Hypothesis (가설함수)
 H(x) = Wx + b
