@@ -11,3 +11,7 @@ list
   - 오류 수정
   - np.array 형이 한 번에 처리되는 걸 확인
   
+3. Multi-variable Linear Regression
+  - lab 04
+  - 오류 수정
+  - linear regression에서 Multi로 넘어갈 때, matrix 형태로 표현한 것을 코드로 설명
