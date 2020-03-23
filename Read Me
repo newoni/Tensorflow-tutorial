@@ -15,3 +15,9 @@ list
   - lab 04
   - 오류 수정
   - linear regression에서 Multi로 넘어갈 때, matrix 형태로 표현한 것을 코드로 설명
+
+4. Logistic Regression/Classification
+  - lab 05
+  - https://github.com/deeplearningzerotoall/TensorFlow/blob/master/tf_2.x/lab-05-1-logistic_regression-eager.ipynb 참고
+  - Cost함수로 cross-entropy 함수 사용.
+  - Sigmoid 활성 함수까지 포함된 식을 hypothesis로 사용.
