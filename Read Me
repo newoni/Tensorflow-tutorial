@@ -21,3 +21,9 @@ list
   - https://github.com/deeplearningzerotoall/TensorFlow/blob/master/tf_2.x/lab-05-1-logistic_regression-eager.ipynb 참고
   - Cost함수로 cross-entropy 함수 사용.
   - Sigmoid 활성 함수까지 포함된 식을 hypothesis로 사용.
+
+5. Softmax Classifier
+  - lab 06
+  - https://github.com/deeplearningzerotoall/TensorFlow/blob/master/tf_2.x/lab-06-1-softmax_classifier-eager.ipynb 참고
+  - Cost 함수로 cross-entropy 함수 사용.
+  - softmax, one-hot encoding, cross entropy 함수의 관계에 대해서 잘 생각해보기.
